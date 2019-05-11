@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ToStarBase", "ToStarBase\ToStarBase.dtproj", "{8629B906-6C73-4FCE-B45B-16A78338DD3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8629B906-6C73-4FCE-B45B-16A78338DD3A}.Development|Default.ActiveCfg = Development
+		{8629B906-6C73-4FCE-B45B-16A78338DD3A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C000232E-FCA8-49B4-8165-F81ECDEEFE91}
+	EndGlobalSection
+EndGlobal
